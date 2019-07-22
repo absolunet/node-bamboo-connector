@@ -30,7 +30,7 @@ const basicBamboo = new BambooConnector({
 		username: 'lkjhgfdsa',
 		secret: 'mnbvcxz'
 	},
-	url: 'https://bamboo.domain.com:8085'
+	url: 'https://bamboo.domain.com'
 }); // axios instance
 
 const oauthBamboo = new BambooConnector({
@@ -39,7 +39,7 @@ const oauthBamboo = new BambooConnector({
 		key: 'zyxwvutsrqponmlkji',
 		secret: 'abcdefghijklmnopqrstuvwxyz012345'
 	},
-	url: 'https://bamboo.domain.com:8085'
+	url: 'https://bamboo.domain.com'
 }); // axios instance
 ```
 

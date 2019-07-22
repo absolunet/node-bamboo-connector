@@ -1,6 +1,6 @@
 {
   "name": "@absolunet/bamboo-connector",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "description": "Bamboo connector via OAuth2 and basic with Axios",
   "definition": "",
   "homepage": "https://github.com/absolunet/node-bamboo-connector",
@@ -9,6 +9,7 @@
     "url": "https://absolunet.com"
   },
   "keywords": [
+    "absolunet",
     "api",
     "bamboo",
     "oauth2"
@@ -37,9 +38,9 @@
   "devDependencies": {
     "@absolunet/manager": "1.1.0",
     "@absolunet/tester": "2.6.8",
-    "@typescript-eslint/eslint-plugin": "^1.11.0",
-    "@typescript-eslint/parser": "^1.11.0",
-    "eslint-plugin-jest": "^22.7.2",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "eslint-plugin-jest": "^22.13.4",
     "jest": "24.8.0"
   },
   "dependencies": {
